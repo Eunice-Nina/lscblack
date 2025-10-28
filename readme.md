@@ -1,5 +1,4 @@
-# This is nina kwelcome to my youtube channel
-*Im in Love*
+# This is nina welcome to my dashboard
 ### steps to push
 1. git add .
 2. git commit -m "Done With "
