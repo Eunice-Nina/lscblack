@@ -1,0 +1,30 @@
+*{
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+body{
+    background: whitesmoke;
+}
+.form{
+    background-color:white;
+     max-width: 400px;
+    margin: 12px auto;
+    border-radius: 10px;
+    padding: 9px;
+    align-items: center;
+}
+.data{
+background-color:whitesmoke;
+    width: 100%;
+    padding: 8px;
+    margin: 18px auto;
+    border: 1px;
+}
+button{
+    background-color: green;
+    width: 100%;
+    margin-top: 20px;
+    padding: 5px;
+    border: 0px;
+    color: white;
+}
